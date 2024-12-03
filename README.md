@@ -14,4 +14,8 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/gamalmouhssine/LeetCode/tree/master/0066-plus-one) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/gamalmouhssine/LeetCode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->

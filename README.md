@@ -19,4 +19,9 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/gamalmouhssine/LeetCode/tree/master/0058-length-of-last-word) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gamalmouhssine/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Sliding Window
+|  |
+| ------- |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gamalmouhssine/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->

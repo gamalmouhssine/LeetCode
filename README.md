@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/gamalmouhssine/LeetCode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/gamalmouhssine/LeetCode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/gamalmouhssine/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0665-non-decreasing-array](https://github.com/gamalmouhssine/LeetCode/tree/master/0665-non-decreasing-array) |
 ## Hash Table
 |  |
@@ -33,4 +34,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gamalmouhssine/LeetCode/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/gamalmouhssine/LeetCode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/gamalmouhssine/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->

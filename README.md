@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gamalmouhssine/LeetCode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/gamalmouhssine/LeetCode/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/gamalmouhssine/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/gamalmouhssine/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0665-non-decreasing-array](https://github.com/gamalmouhssine/LeetCode/tree/master/0665-non-decreasing-array) |
@@ -37,9 +38,11 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/gamalmouhssine/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/gamalmouhssine/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/gamalmouhssine/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/gamalmouhssine/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->

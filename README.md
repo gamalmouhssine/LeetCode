@@ -24,6 +24,7 @@
 | [0012-integer-to-roman](https://github.com/gamalmouhssine/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/gamalmouhssine/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/gamalmouhssine/LeetCode/tree/master/0066-plus-one) |
+| [0415-add-strings](https://github.com/gamalmouhssine/LeetCode/tree/master/0415-add-strings) |
 ## String
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [0179-largest-number](https://github.com/gamalmouhssine/LeetCode/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/gamalmouhssine/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/gamalmouhssine/LeetCode/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/gamalmouhssine/LeetCode/tree/master/0415-add-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gamalmouhssine/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
 |  |
@@ -65,4 +67,8 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/gamalmouhssine/LeetCode/tree/master/0179-largest-number) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/gamalmouhssine/LeetCode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->

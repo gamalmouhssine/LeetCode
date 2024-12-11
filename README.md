@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/gamalmouhssine/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/gamalmouhssine/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gamalmouhssine/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0179-largest-number](https://github.com/gamalmouhssine/LeetCode/tree/master/0179-largest-number) |
 | [0665-non-decreasing-array](https://github.com/gamalmouhssine/LeetCode/tree/master/0665-non-decreasing-array) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@
 | [0013-roman-to-integer](https://github.com/gamalmouhssine/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/gamalmouhssine/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/gamalmouhssine/LeetCode/tree/master/0058-length-of-last-word) |
+| [0179-largest-number](https://github.com/gamalmouhssine/LeetCode/tree/master/0179-largest-number) |
 | [0392-is-subsequence](https://github.com/gamalmouhssine/LeetCode/tree/master/0392-is-subsequence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/gamalmouhssine/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sliding Window
@@ -51,9 +53,14 @@
 | ------- |
 | [0015-3sum](https://github.com/gamalmouhssine/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/gamalmouhssine/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/gamalmouhssine/LeetCode/tree/master/0179-largest-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gamalmouhssine/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/gamalmouhssine/LeetCode/tree/master/0392-is-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/gamalmouhssine/LeetCode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->

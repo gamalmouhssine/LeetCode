@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/gamalmouhssine/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/gamalmouhssine/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gamalmouhssine/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/gamalmouhssine/LeetCode/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/gamalmouhssine/LeetCode/tree/master/0179-largest-number) |
 | [0665-non-decreasing-array](https://github.com/gamalmouhssine/LeetCode/tree/master/0665-non-decreasing-array) |
 ## Hash Table
@@ -71,4 +72,8 @@
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/gamalmouhssine/LeetCode/tree/master/0415-add-strings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/gamalmouhssine/LeetCode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
